@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Counter from "./components/Counter";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Shop from "./components/Shop";
 
